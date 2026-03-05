@@ -1,4 +1,4 @@
-#Dual Architecture For Low Computing SBCs
+# Dual Architecture For Low Computing SBCs
 
 
 
