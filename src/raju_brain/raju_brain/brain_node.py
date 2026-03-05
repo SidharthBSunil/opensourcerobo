@@ -28,7 +28,7 @@ class RajuBrain(Node):
             r = requests.post(
                 "http://localhost:11434/api/generate",
                 json={
-                    "model": "raju_robot_vtwo",
+                    "model": "phi3",
                     "prompt": text,
                     "stream": False,
                     "context": [],          # clears memory
