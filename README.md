@@ -157,7 +157,7 @@ Think of this as the **engine** that runs AI models locally.
 
 ### Phi-3
 
-A **Small Language Model (SLM)** developed by Microsoft.
+A **Small Language Model (SLM)**.
 It provides conversational intelligence without requiring cloud APIs.
 
 ### ROS 2
