@@ -1,6 +1,6 @@
 # 🤖 openSource Robo Middleware!
 
-Welcome! This is project to give a robot a **distributed AI brain** using **Ollama** (AI engine), **Phi-3** (Small Language Model), and **MediaPipe** for gesture control.
+Welcome! This is project to give a robot a **distributed AI brain** using **Ollama** (AI engine), **Phi-3** (Small Language Model), and use **MediaPipe** for gesture control.
 
 The project demonstrates a **Dual Architecture Robotics System** designed to run AI models efficiently using a **high-compute computer (PC/Laptop)** and a **low-compute single-board computer (Raspberry Pi)**.
 
