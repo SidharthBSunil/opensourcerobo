@@ -1,14 +1,10 @@
-# 🤖 Raju Brain: My AI Robot Project!
+Dual Architecture For Low Computing SBCs
 
-Welcome! This is a simple project to give a robot a "brain" using **Ollama** (an AI engine) and **Phi-3** (a smart AI model). It can also track your hand movements using your webcam!
 
----
-
-## 🌟 What does this do?
-1. **The Brain (`raju_brain`)**: It uses the Phi-3 AI model to answer questions. If you send it text, it replies back!
-2. **The Hand Controller (`hand_servo_publisher`)**: It uses your webcam to see your hand. It counts your fingers and sends an angle to control a robot's motor (servo)!
 
 ---
+
+
 
 ## 🚀 How to set it up (Easy Mode)
 
