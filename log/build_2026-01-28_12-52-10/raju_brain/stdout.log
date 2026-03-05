@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/raju_brain/raju_brain.egg-info
+writing ../../build/raju_brain/raju_brain.egg-info/PKG-INFO
+writing dependency_links to ../../build/raju_brain/raju_brain.egg-info/dependency_links.txt
+writing entry points to ../../build/raju_brain/raju_brain.egg-info/entry_points.txt
+writing requirements to ../../build/raju_brain/raju_brain.egg-info/requires.txt
+writing top-level names to ../../build/raju_brain/raju_brain.egg-info/top_level.txt
+writing manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+reading manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+writing manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sidharth/raju_brain_ws/build/raju_brain/build
+creating /home/sidharth/raju_brain_ws/build/raju_brain/build/lib
+creating /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+copying raju_brain/__init__.py -> /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+copying raju_brain/brain_node.py -> /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+running install
+running install_lib
+creating /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+copying /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain/__init__.py -> /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+copying /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain/brain_node.py -> /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+byte-compiling /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain/brain_node.py to brain_node.cpython-310.pyc
+running install_data
+creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index
+creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index
+creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index/packages
+copying resource/raju_brain -> /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index/packages
+copying package.xml -> /home/sidharth/raju_brain_ws/install/raju_brain/share/raju_brain
+running install_egg_info
+Copying ../../build/raju_brain/raju_brain.egg-info to /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain-0.0.0-py3.10.egg-info
+running install_scripts
+Installing raju_brain script to /home/sidharth/raju_brain_ws/install/raju_brain/lib/raju_brain
+writing list of installed files to '/home/sidharth/raju_brain_ws/build/raju_brain/install.log'

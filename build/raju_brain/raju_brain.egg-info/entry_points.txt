@@ -1,0 +1,4 @@
+[console_scripts]
+hand_servo_publisher = raju_brain.hand_servo_publisher:main
+raju_brain = raju_brain.brain_node:main
+

@@ -1,0 +1,37 @@
+[0.362s] Invoking command in '/home/sidharth/raju_brain_ws/src/raju_brain': PYTHONPATH=/home/sidharth/raju_brain_ws/build/raju_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/raju_brain build --build-base /home/sidharth/raju_brain_ws/build/raju_brain/build install --record /home/sidharth/raju_brain_ws/build/raju_brain/install.log --single-version-externally-managed install_data
+[0.494s] running egg_info
+[0.494s] creating ../../build/raju_brain/raju_brain.egg-info
+[0.495s] writing ../../build/raju_brain/raju_brain.egg-info/PKG-INFO
+[0.495s] writing dependency_links to ../../build/raju_brain/raju_brain.egg-info/dependency_links.txt
+[0.495s] writing entry points to ../../build/raju_brain/raju_brain.egg-info/entry_points.txt
+[0.495s] writing requirements to ../../build/raju_brain/raju_brain.egg-info/requires.txt
+[0.495s] writing top-level names to ../../build/raju_brain/raju_brain.egg-info/top_level.txt
+[0.495s] writing manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+[0.496s] reading manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+[0.496s] writing manifest file '../../build/raju_brain/raju_brain.egg-info/SOURCES.txt'
+[0.496s] running build
+[0.496s] running build_py
+[0.496s] creating /home/sidharth/raju_brain_ws/build/raju_brain/build
+[0.496s] creating /home/sidharth/raju_brain_ws/build/raju_brain/build/lib
+[0.496s] creating /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+[0.496s] copying raju_brain/__init__.py -> /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+[0.496s] copying raju_brain/brain_node.py -> /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain
+[0.496s] running install
+[0.497s] running install_lib
+[0.497s] creating /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+[0.497s] copying /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain/__init__.py -> /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+[0.497s] copying /home/sidharth/raju_brain_ws/build/raju_brain/build/lib/raju_brain/brain_node.py -> /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain
+[0.497s] byte-compiling /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain/__init__.py to __init__.cpython-310.pyc
+[0.497s] byte-compiling /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain/brain_node.py to brain_node.cpython-310.pyc
+[0.498s] running install_data
+[0.498s] creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index
+[0.498s] creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index
+[0.498s] creating /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index/packages
+[0.498s] copying resource/raju_brain -> /home/sidharth/raju_brain_ws/install/raju_brain/share/ament_index/resource_index/packages
+[0.498s] copying package.xml -> /home/sidharth/raju_brain_ws/install/raju_brain/share/raju_brain
+[0.498s] running install_egg_info
+[0.499s] Copying ../../build/raju_brain/raju_brain.egg-info to /home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages/raju_brain-0.0.0-py3.10.egg-info
+[0.499s] running install_scripts
+[0.512s] Installing raju_brain script to /home/sidharth/raju_brain_ws/install/raju_brain/lib/raju_brain
+[0.513s] writing list of installed files to '/home/sidharth/raju_brain_ws/build/raju_brain/install.log'
+[0.528s] Invoked command in '/home/sidharth/raju_brain_ws/src/raju_brain' returned '0': PYTHONPATH=/home/sidharth/raju_brain_ws/build/raju_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidharth/raju_brain_ws/install/raju_brain/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/raju_brain build --build-base /home/sidharth/raju_brain_ws/build/raju_brain/build install --record /home/sidharth/raju_brain_ws/build/raju_brain/install.log --single-version-externally-managed install_data
