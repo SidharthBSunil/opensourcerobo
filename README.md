@@ -122,7 +122,7 @@ Both computers need to use the same "Domain ID" (like a secret channel).
 On your PC, run this command:
 
 ```bash
-source setup_network.sh 42
+source setup_network.sh 10
 ```
 
 *(You can use any number, but make sure the Raspberry Pi uses the same one!)*
